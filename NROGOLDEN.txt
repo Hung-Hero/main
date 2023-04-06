@@ -1,0 +1,8 @@
+[server]Golden:14.225.217.232:14445:0,0,0[/server]
+
+[notify]Phiên bản được chỉnh sửa và hoàn thiện bởi Hùng Hero.
+;
+Chúc bạn chơi game vui vẻ!
+;
+Liên hệ hỗ trợ, báo lỗi: https://www.facebook.com/HungHero.Online
+;[/notify]

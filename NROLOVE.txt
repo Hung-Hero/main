@@ -1,0 +1,8 @@
+[server]NROLOVE Local:14.225.192.95:14445:0,NROLOVE 1:103.90.226.146:14446:0,0,0[/server]
+
+[notify]Phiên bản được chỉnh sửa và hoàn thiện bởi Hùng Hero.
+;
+Chúc bạn chơi game vui vẻ!
+;
+Liên hệ hỗ trợ, báo lỗi: https://www.facebook.com/HungHero.Online
+;[/notify]
