@@ -1,5 +1,4 @@
 [server]Rose:103.90.224.45:14445:0,0,0[/server]
-
 [notify]Phiên bản được chỉnh sửa và hoàn thiện bởi Hùng Hero.
 ;
 Chúc bạn chơi game vui vẻ!
